@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1>Hi, I'm David! <br/><a href="ADD GITHUB LINK HERE!!">Cybersecurity Professional</a>
 
-<!--
-**ComputerNerdDave/ComputerNerdDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>✍️ Linux posturing writeups:</h2>
+- [Linux Hardening:Securing the BIOS](https://medium.com/@obodo181/linux-hardening-securing-the-bios-f77559e3741f)
+
+<h2>⚔️Tryhackme CTFs:</h2>
+
+<h2>🛡️ Letsdefend CTFs :</h2>
+
+<h2> Letsdefend CTFs :</h2>
+
+<!-- 
+<h2>🏆Certifications:</h2>
+ Comptia Security+ SY0-601
+ 
+ <h2>📝 NGT academy writeups:</h2>
+ 
+  <h2>💨 AWS writeups:</h2>
+ 
+ -->
+ 
+ 
+ 
+
+- 👨‍💻  I’m currently working on ...My CySA+ certification and my Github 
+- 🌱 I’m currently learning ...Linux security posturing
+- 🤔 I’m looking for help with ...Finding mentors and likeminded people who are equally as eager to learn
+- 💬 Ask me about ...What drives me
+-🔎  I am currently... job searching, any recommendations would be much appreciated!
+- 🤳 How to reach me: ...[Linkedin](https://www.linkedin.com/in/davidobodo/) or message me on github
+- 😄 Fun fact: ... I'm a secret pianist, a Certified fitness professional, and math nerd 
 -->
