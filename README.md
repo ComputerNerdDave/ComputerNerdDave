@@ -3,7 +3,12 @@
 
 
 <h2>✍️ Linux posturing writeups:</h2>
+
 - [Linux Hardening:Securing the BIOS](https://medium.com/@obodo181/linux-hardening-securing-the-bios-f77559e3741f)
+
+- [Linux Hardening:Securing the Bootloader](https://medium.com/@CyberNerdDave/linux-hardening-securing-the-bios-f77559e3741f)
+
+- [Linux Hardening:Securing the Kernel](https://medium.com/@CyberNerdDave/linux-hardening-securing-the-kernel-1745938db076)
 
 <h2>⚔️Tryhackme CTFs:</h2>
 
