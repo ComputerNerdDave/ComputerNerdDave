@@ -10,13 +10,30 @@
 
 - [Linux Hardening:Securing the Kernel](https://medium.com/@CyberNerdDave/linux-hardening-securing-the-kernel-1745938db076)
 
-<h2>⚔️Tryhackme CTFs:</h2>
 
 <h2>🛡️ Letsdefend CTFs :</h2>
+ 
+ - [SOC114 — Malicious Attachment Detected](https://medium.com/@CyberNerdDave/soc114-malicious-attachment-detected-a92b2e01bd89)
+ 
+ <h2>🛡️ Drafts/in progress :</h2>
+ 
+- [Linux Hardening: Protecting Network traffic](https://medium.com/@CyberNerdDave/linux-hardening-protecting-network-traffic-4247bf754f82)
+ 
+ - [Project: Hacking my 3DS](https://medium.com/@CyberNerdDave/project-hacking-my-3ds-4b00fb5de068)
+ 
+ - [Setting Up SSH In Linux: A simple Step-By-Step Guide
+](https://medium.com/@CyberNerdDave/setting-up-ssh-in-linux-a-simple-step-by-step-guide-a2094a4d437c)
+ 
+ - [SOC140 — Phishing Mail Detected](https://medium.com/@CyberNerdDave/soc140-phishing-mail-detected-d088af3af53e)
+ 
+ <!-- 
 
-<h2> Letsdefend CTFs :</h2>
 
-<!-- 
+<h2>⚔️Tryhackme CTFs:</h2>
+ 
+)
+ 
+
 <h2>🏆Certifications:</h2>
  Comptia Security+ SY0-601
  
