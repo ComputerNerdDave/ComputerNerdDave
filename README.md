@@ -50,7 +50,6 @@
 - 🌱 I’m currently learning ...Linux security posturing
 - 🤔 I’m looking for help with ...Finding mentors and likeminded people who are equally as eager to learn
 - 💬 Ask me about ...What drives me
--🔎  I am currently... job searching, any recommendations would be much appreciated!
 - 🤳 How to reach me: ...[Linkedin](https://www.linkedin.com/in/davidobodo/) or message me on github
 - 😄 Fun fact: ... I'm a secret pianist, a Certified fitness professional, and math nerd 
 -->
